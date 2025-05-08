@@ -1,0 +1,6 @@
+{
+  "firebase_hosting": {
+    "deploymentHostingUrl": "https://dataforge-ymstf.web.app"
+  },
+  "cloud_run_deploy": {}
+}
